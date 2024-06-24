@@ -57,12 +57,11 @@ function Hero() {
           With a passion for developing modern React web apps.
         </p>
         <span>
-        <a href={CV} target="_blank" view>
-          <button className="hover">View Resume</button>
-        </a>
-         <a href={CV} download>
-          <button className="hover">Download Resume</button>
-        </a>
+          
+       <a href="https://mohammadruman.tiiny.site/"  rel="noopener noreferrer">
+      <button className="hover"> Resume</button>
+    </a>
+        
         </span>
       </div>
     </section>
